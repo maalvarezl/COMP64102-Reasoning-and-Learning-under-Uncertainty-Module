@@ -15,3 +15,4 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 | Session date |      Lab session        |  Google Colab link |
 |--------------------|----------------|---------------|
 |     February 5               |Probability & Statistics  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m-caprio/COMP64102-Reasoning-and-Learning-under-Uncertainty-Module/blob/main/New%20Lab%201.ipynb)|
+|     February 19               |Inference  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m-caprio/COMP64102-Reasoning-and-Learning-under-Uncertainty-Module/blob/main/New_Lab_2_Inference.ipynb)|
